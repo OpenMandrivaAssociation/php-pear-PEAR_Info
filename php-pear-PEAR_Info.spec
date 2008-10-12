@@ -5,8 +5,8 @@
 
 Summary:	%{_pearname} - show Information about your PEAR install and its packages
 Name:		php-pear-%{_pearname}
-Version:	1.6.1
-Release:	%mkrel 2
+Version:	1.8.0
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2

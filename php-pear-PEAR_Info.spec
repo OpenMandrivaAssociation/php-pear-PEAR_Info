@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - show Information about your PEAR install and its packages
 Name:		php-pear-%{_pearname}
-Version:	1.8.0
+Version:	1.9.0
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP

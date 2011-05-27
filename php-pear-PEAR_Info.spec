@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.9.2
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	Show Information about your PEAR install and its packages
 License:	PHP License
 Group:		Development/PHP

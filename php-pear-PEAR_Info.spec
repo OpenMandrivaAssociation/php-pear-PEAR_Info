@@ -10,7 +10,7 @@ Summary:	Show Information about your PEAR install and its packages
 
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/PEAR_Info/
+URL:		https://pear.php.net/package/PEAR_Info/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
